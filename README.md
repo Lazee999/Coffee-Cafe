@@ -13,5 +13,8 @@ Contact Form: Allows users to get in touch with the cafe easily.
 
 Tech Stack 💻
 Frontend Framework: React.js
+
 Styling: Tailwind CSS
+
 Icons: Heroicons
+
